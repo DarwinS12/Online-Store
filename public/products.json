@@ -1,14 +1,14 @@
 [
   {
     "id": 34,
-    "title": "Ergonomic Metal Sausages",
+    "title": "Ergonomic Chair",
     "price": 883,
-    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "description": "Upgrade your comfort with our Ergonomic Chair. Impeccably designed for optimal support and posture, it's your go-to seat for a productive and comfortable work environment.",
     "images": [
       "https://i.imgur.com/3dU0m72.jpeg",
       "https://i.imgur.com/zPU3EVa.jpeg"
     ],
-    "creationAt": "2024-01-02T18:11:22.000Z",   
+    "creationAt": "2024-01-02T18:11:22.000Z",
     "updatedAt": "2024-01-02T18:11:22.000Z",
     "category": {
       "id": 3,
@@ -20,9 +20,9 @@
   },
   {
     "id": 37,
-    "title": "Oriental Bronze Salad",
+    "title": "Oriental Espadrille",
     "price": 948,
-    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "description": "Step into exotic elegance with our Oriental Espadrille. A harmonious fusion of Eastern-inspired design and laid-back comfort, these shoes effortlessly elevate your style for any occasion.",
     "images": [
       "https://i.imgur.com/9qrmE1b.jpeg",
       "https://i.imgur.com/wqKxBVH.jpeg",
@@ -40,9 +40,9 @@
   },
   {
     "id": 38,
-    "title": "Electronic Soft Soap",
+    "title": "Colorful Shoes",
     "price": 664,
-    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "description": "Inject vibrancy into your step with our Colorful Shoes. From bold hues to playful patterns, these lively kicks are a celebration of individuality and style, ensuring you stand out with every stride.",
     "images": [
       "https://i.imgur.com/hKcMNJs.jpeg",
       "https://i.imgur.com/NYToymX.jpeg",
@@ -60,9 +60,9 @@
   },
   {
     "id": 39,
-    "title": "Bespoke Granite Computer",
+    "title": "Pink Panther Shoes",
     "price": 302,
-    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "description": "Unleash your wild side with our Pink Panther Shoes. Embrace feline finesse and playful style as you prowl the streets with these eye-catching and uniquely spirited kicks.",
     "images": [
       "https://i.imgur.com/mcW42Gi.jpeg",
       "https://i.imgur.com/mhn7qsF.jpeg",
@@ -80,9 +80,9 @@
   },
   {
     "id": 40,
-    "title": "Licensed Concrete Hat",
+    "title": "Back to the future Shoes",
     "price": 552,
-    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "description": "Take a leap forward in style with our 'Back to the Future Shoes.' Inspired by innovation and sleek design, these futuristic kicks seamlessly blend cutting-edge aesthetics with modern comfort, ensuring you step into tomorrow with every stride.",
     "images": [
       "https://i.imgur.com/npLfCGq.jpeg",
       "https://i.imgur.com/vYim3gj.jpeg",
@@ -100,9 +100,9 @@
   },
   {
     "id": 41,
-    "title": "Handcrafted Steel Car",
+    "title": "Strange Shoes",
     "price": 830,
-    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "description": "Step into the extraordinary with our 'Strange Shoes.' These avant-garde kicks defy convention, merging unconventional design with unmatched comfort, making a bold statement that embraces the allure of the unconventional.",
     "images": [
       "https://i.imgur.com/HqYqLnW.jpeg",
       "https://i.imgur.com/RlDGnZw.jpeg",
@@ -122,7 +122,7 @@
     "id": 42,
     "title": "Fantastic Metal Shoes",
     "price": 512,
-    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "description": "Unleash your bold side with our Metallica Sole Shoes,  a fusion of industrial chic and unmatched durability. Elevate your style with these edgy, metallic kicks that redefine the boundaries of conventional footwea",
     "images": [
       "https://i.imgur.com/AzAY4Ed.jpeg",
       "https://i.imgur.com/umfnS9P.jpeg",
@@ -140,9 +140,9 @@
   },
   {
     "id": 43,
-    "title": "Electronic Plastic Chair",
+    "title": "Loafer Shoes",
     "price": 560,
-    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "description": "Refine your style effortlessly with our Loafer Shoes. Classic, comfortable, and effortlessly chic.",
     "images": [
       "https://i.imgur.com/Au8J9sX.jpeg",
       "https://i.imgur.com/gdr8BW2.jpeg",
@@ -162,7 +162,7 @@
     "id": 44,
     "title": "Rustic Rubber Shoes",
     "price": 974,
-    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "description": "Embrace rustic elegance with our Rustic Rubber Shoes, the perfect blend of style and durability for any adventure.",
     "images": [
       "https://i.imgur.com/sC0ztOB.jpeg",
       "https://i.imgur.com/Jf9DL9R.jpeg",
@@ -180,9 +180,9 @@
   },
   {
     "id": 45,
-    "title": "Unbranded Soft Shoes",
+    "title": "Electric bicycle",
     "price": 672,
-    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "description": "Experience the future of commuting with our Electric Bicycle. Effortlessly blend eco-friendly travel and cutting-edge technology as you ride in style towards a sustainable tomorrow.",
     "images": [
       "https://i.imgur.com/BG8J0Fj.jpg",
       "https://i.imgur.com/ujHBpCX.jpg",
@@ -200,9 +200,9 @@
   },
   {
     "id": 46,
-    "title": "Electronic Granite Ball",
+    "title": "All Terrain Vehicles",
     "price": 95,
-    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "description": "Conquer any terrain with our All-Terrain Vehicles. Unleash adventure with rugged durability and versatile performance in every expedition.",
     "images": [
       "https://i.imgur.com/Ex5x3IU.jpg",
       "https://i.imgur.com/z7wAQwe.jpg",
@@ -220,9 +220,9 @@
   },
   {
     "id": 47,
-    "title": "Sleek Steel Table",
+    "title": "Orange Fragrance",
     "price": 283,
-    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "description": "Indulge your senses in our Orange Fragrance. A burst of citrus bliss that invigorates and uplifts, leaving you refreshed and energized.",
     "images": [
       "https://i.imgur.com/xPDwUb3.jpg",
       "https://i.imgur.com/3rfp691.jpg",
@@ -240,9 +240,9 @@
   },
   {
     "id": 48,
-    "title": "Recycled Concrete Mouse",
+    "title": "Eco-friendly Suitcase",
     "price": 464,
-    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "description": "Travel green with our Eco-Friendly Suitcase stylish, sustainable, and planet-friendly.",
     "images": [
       "https://i.imgur.com/jVfoZnP.jpg",
       "https://i.imgur.com/Tnl15XK.jpg",
@@ -260,9 +260,9 @@
   },
   {
     "id": 49,
-    "title": "Practical Plastic Bacon",
+    "title": "Glass Bag",
     "price": 157,
-    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "description": "Elevate your style with our Glass Bag, a sleek and transparent statement piece.",
     "images": [
       "https://i.imgur.com/Lqaqz59.jpg",
       "https://i.imgur.com/uSqWK0m.jpg",
@@ -280,9 +280,9 @@
   },
   {
     "id": 50,
-    "title": "Elegant Frozen Gloves",
+    "title": "Lava Glasses",
     "price": 321,
-    "description": "The Football Is Good For Training And Recreational Purposes",
+    "description": "Ignite your style with our Lava Glasses. Bold and volcanic in design, these frames bring an eruption of uniqueness to your eyewear collection.",
     "images": [
       "https://i.imgur.com/0qQBkxX.jpg",
       "https://i.imgur.com/I5g1DoE.jpg",
